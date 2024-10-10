@@ -1,1 +1,3 @@
 # CosmicChat
+
+yarn run dev
