@@ -1,5 +1,5 @@
-Developed CosmicChat – an AI-powered chat application using Next.js, integrating Google's Generative AI for intelligent, context-aware conversations and secure content filtering for safe user interactions.
+Developed an AI-powered chat application with Next.js, leveraging Google's Generative AI for intelligent conversations and secure content filtering, ensuring safe user interactions.
 
-Engineered a dynamic, responsive UI – built with Radix UI and styled with Tailwind CSS, offering seamless functionality across devices with customizable light/dark themes for enhanced user personalization.
+Designed a dynamic UI with Radix UI and Tailwind CSS for responsive, customizable theming, supported by a scalable architecture with modular components and efficient state management using Context API.
 
-Built a scalable architecture – utilizing modular components and Context API for efficient state management, ensuring maintainability and performance optimization across the application.
+
